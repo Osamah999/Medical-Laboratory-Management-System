@@ -1,0 +1,223 @@
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.exe.config
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.exe
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.pdb
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.xml
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.vbprojAssemblyReference.cache
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Start.resources
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Login.resources
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Resources.resources
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.vbproj.GenerateResource.cache
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.vbproj.CopyComplete
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.exe
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.xml
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.pdb
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Main.resources
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Patient.resources
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Test.resources
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Result_1.resources
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.exe.config
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.exe.config
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.exe
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.pdb
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.xml
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.Management.Sql.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.UI.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.Azure.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Hyak.Common.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.Common.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Data.Tools.Components.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.ResourceManager.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\System.Collections.Immutable.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\EnvDTE.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Build.Framework.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\stdole.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.MSXML.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.vbprojAssemblyReference.cache
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.exe.config
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.DTSPipeline.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.OleDbSrc.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxAgg.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxBDD.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxDataConvert.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxDerived.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxLookup.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxSplit.dll
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.vbproj.ResolveComReference.cache
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Main.resources
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Patient.resources
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Analysis.resources
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Result_1.resources
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Start.resources
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Login.resources
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Resources.resources
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Test.resources
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Test_List.resources
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.User_Settings.resources
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.vbproj.GenerateResource.cache
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.vbproj.CopyComplete
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.exe
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.xml
+F:\New folder (2)\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.pdb
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.Management.Sql.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.UI.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.Azure.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Hyak.Common.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.Common.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Data.Tools.Components.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.ResourceManager.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\System.Collections.Immutable.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\EnvDTE.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Build.Framework.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\stdole.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.MSXML.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.DTSPipeline.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.OleDbSrc.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxAgg.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxBDD.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxDataConvert.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxDerived.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxLookup.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxSplit.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.vbproj.ResolveComReference.cache
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Search.resources
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Bills.resources
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\AxShockwaveFlashObjects.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.Shared.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\ShockwaveFlashObjects.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Report.resources
+F:\OSAMAH\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Settings.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.exe.config
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.exe
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.pdb
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Medical Laboratory Management System.xml
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\AxShockwaveFlashObjects.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.Shared.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.Management.Sql.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.UI.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.Azure.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.VS.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\ShockwaveFlashObjects.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Hyak.Common.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.Common.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.ConnectionDlg.Core.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.Tools.Extensibility.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Data.Tools.Components.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.ResourceManager.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Azure.Common.NetFramework.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\stdole.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\System.Collections.Immutable.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\EnvDTE.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.Build.Framework.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.MSXML.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.exe.config
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.DTSPipeline.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.OleDbSrc.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxAgg.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxBDD.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxDataConvert.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxDerived.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxLookup.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Interop.TxSplit.dll
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.vbproj.ResolveComReference.cache
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Main.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Patient.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Bills.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Report.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Result_1.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Search.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Start.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Login.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Resources.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Test.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical_Laboratory_Management_System.Settings.resources
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.vbproj.GenerateResource.cache
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.vbproj.CopyComplete
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.exe
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.xml
+F:\BCS\BCS\BCS 4th SEM\My Project\Medical Laboratory Management System\Medical Laboratory Management System\obj\Debug\Medical Laboratory Management System.pdb
