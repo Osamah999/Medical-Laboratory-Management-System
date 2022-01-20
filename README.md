@@ -1,6 +1,6 @@
 # Medical-Laboratory-Management-System
 
-<img src= "https://user-images.githubusercontent.com/79145466/150382620-42c4c554-726f-4a8c-80bc-554ae8db1972.png" /> <img src= "https://user-images.githubusercontent.com/79145466/150382639-338c1be6-8de9-4970-b2e9-2688a946df3b.png" />
+<img src= "https://user-images.githubusercontent.com/79145466/150382620-42c4c554-726f-4a8c-80bc-554ae8db1972.png" width="400" height="200" /> <img src= "https://user-images.githubusercontent.com/79145466/150382639-338c1be6-8de9-4970-b2e9-2688a946df3b.png" width="400" height="200"/>
 
 <img src= "https://user-images.githubusercontent.com/79145466/150382662-7b537c98-04e3-4c46-8705-1e325144e970.png" />
 
